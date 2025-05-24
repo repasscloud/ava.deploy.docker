@@ -1,0 +1,17 @@
+region,regionId,continent,continentIso,continentId,country,countryIso,flag
+EMEA,4,Europe,EU,4,"Bonaire, Sint Eustatius and Saba",BQ,🇧🇶
+EMEA,4,Europe,EU,4,Hungary,HU,🇭🇺
+EMEA,4,Middle East,ME,5,Iraq,IQ,🇮🇶
+EMEA,4,Middle East,ME,5,Iran (Islamic Republic of),IR,🇮🇷
+APAC,1,Oceania,OC,1,Kiribati,KI,🇰🇮
+APAC,1,Asia,AS,2,Korea (Democratic People's Republic of),KP,🇰🇵
+APAC,1,Oceania,OC,1,Nauru,NR,🇳🇷
+EMEA,4,Middle East,ME,5,Oman,OM,🇴🇲
+EMEA,4,Middle East,ME,5,"Palestine, State of",PS,🇵🇸
+EMEA,4,Middle East,ME,5,Qatar,QA,🇶🇦
+EMEA,4,Middle East,ME,5,Saudia Arabia,SA,🇸🇦
+NA,2,North America,NA,3,Turks and Caicos Islands,TC,🇹🇨
+APAC,1,Oceania,OC,1,Tonga,TO,🇹🇴
+APAC,1,Oceania,OC,1,Tuvalu,TV,🇹🇻
+EMEA,4,Middle East,ME,5,Yemen,YE,🇾🇪
+EMEA,4,Europe,EU,5,Kosovo,XK,🇽🇰

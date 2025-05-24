@@ -1,0 +1,2 @@
+INSERT INTO public."AvaEmployees" ("Id", "LastName", "Email", "PrivateKey", "CreatedAt", "IsActive", "EmployeeType", "FirstName", "PasswordHash", "Role", "VerificationToken") VALUES ("YVzBSbvW5rLqsdKGTHM5O", "Wynyard", "test@djjm.io", "MHeXiYMAh_kseR2G9pB7V", "2025-04-21 11:31:15.909838+00", true, "AvaEmployee", "Danijel-James", "/e3WxAn93gm4YFKe6iynf0VTQIC+2FTGcaWB/H+dgTtILATOTPfc8SzkqWwV9aswY+W9jwwUlMOJC0xzTtz36A==", 0);
+	

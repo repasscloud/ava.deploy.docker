@@ -1,0 +1,8 @@
+region,regionId,continent,continentIso,continentId
+APAC,1,Oceania,OC,1
+APAC,1,Asia,AS,2
+NA,2,North America,NA,3
+EMEA,3,Europe,EU,4
+EMEA,4,Middle East,ME,5
+EMEA,3,Africa,AF,6
+LATAM,4,South America,SA,7
